@@ -1,0 +1,60 @@
+# GitHub Pages Configuration
+title: "Slaycoded Inference Guide"
+description: "Comprehensive Step-by-Step Guide to AI Inference - Interactive Documentation for Ease of Audacious Slayage"
+author: "Slaycoded Team"
+url: "https://your-username.github.io"
+baseurl: "/slaycoded-project"
+
+# Theme Configuration
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Site Settings
+lang: en-US
+timezone: UTC
+encoding: utf-8
+
+# GitHub Pages specific
+github:
+  repository_name: slaycoded-project
+  repository_url: https://github.com/your-username/slaycoded-project
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Inference Guide"
+    url: "/slaycoded-inference-guide"
+  - title: "Repository Creator"
+    url: "/repository-creator"
+
+# SEO and Social
+twitter:
+  username: slaycoded
+  card: summary_large_image
+
+# Markdown Configuration
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+  - .git
+  - .gitignore 

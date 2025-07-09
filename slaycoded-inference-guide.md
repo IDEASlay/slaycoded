@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Comprehensive Slaycoded Inference Guide"
+description: "Step-by-step guide to AI inference with Slaycoded - from setup to advanced techniques"
+---
+
 # 🎨 Comprehensive Step-by-Step Guide to Slaycoded Inference
 
 *Interactive Documentation for Ease of Audacious Slayage (IDEAS)*
