@@ -47,7 +47,7 @@ Slaycoded/
 ### 1. **Download the Script**
 ```bash
 # Clone or download slay_create.py
-git clone https://github.com/your-username/slaycoded-project.git
+git clone https://github.com/IDEASLay/slaycoded-project.git
 cd slaycoded-project
 ```
 

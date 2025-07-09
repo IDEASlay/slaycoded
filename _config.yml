@@ -2,7 +2,7 @@
 title: "Slaycoded Inference Guide"
 description: "Comprehensive Step-by-Step Guide to AI Inference - Interactive Documentation for Ease of Audacious Slayage"
 author: "Slaycoded Team"
-url: "https://your-username.github.io"
+url: "https://ideaslay.github.io"
 baseurl: "/slaycoded-project"
 
 # Theme Configuration
@@ -21,7 +21,7 @@ encoding: utf-8
 # GitHub Pages specific
 github:
   repository_name: slaycoded-project
-  repository_url: https://github.com/your-username/slaycoded-project
+  repository_url: https://github.com/IDEASLay/slaycoded-project
 
 # Navigation
 navigation:

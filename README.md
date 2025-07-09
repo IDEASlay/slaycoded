@@ -6,7 +6,7 @@ A comprehensive guide to AI inference with professional documentation and tools 
 
 ## 🌐 Live Website
 
-**Visit the live site:** [https://your-username.github.io/slaycoded-project](https://your-username.github.io/slaycoded-project)
+**Visit the live site:** [https://ideaslay.github.io/slaycoded-project](https://ideaslay.github.io/slaycoded-project)
 
 *Built with GitHub Pages and the beautiful Cayman theme!*
 
@@ -28,12 +28,12 @@ A comprehensive guide to AI inference with professional documentation and tools 
 ## 🚀 Quick Start
 
 ### View the Documentation
-Simply visit the [live website](https://your-username.github.io/slaycoded-project) to browse the complete guides.
+Simply visit the [live website](https://ideaslay.github.io/slaycoded-project) to browse the complete guides.
 
 ### Use the Repository Creator
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/slaycoded-project.git
+git clone https://github.com/IDEASLay/slaycoded-project.git
 cd slaycoded-project
 
 # Run the creator script
@@ -44,7 +44,7 @@ python slay_create.py
 1. Fork this repository
 2. Enable GitHub Pages in repository settings
 3. Choose "Deploy from a branch" and select `main` branch
-4. Your site will be available at `https://your-username.github.io/slaycoded-project`
+4. Your site will be available at `https://ideaslay.github.io/slaycoded-project`
 
 ## 📁 Repository Structure
 
@@ -95,7 +95,7 @@ This repository is configured for GitHub Pages with:
 4. Choose `main` branch and `/ (root)` folder
 5. Click "Save"
 
-Your site will be live at `https://your-username.github.io/repository-name`
+Your site will be live at `https://ideaslay.github.io/slaycoded-project`
 
 ## 🤝 Contributing
 
@@ -111,9 +111,9 @@ MIT License - free and fabulous! See [LICENSE](LICENSE) for details.
 
 ## 🔗 Links
 
-- **Live Site**: [https://your-username.github.io/slaycoded-project](https://your-username.github.io/slaycoded-project)
-- **Issues**: [Report bugs or request features](https://github.com/your-username/slaycoded-project/issues)
-- **Discussions**: [Join the conversation](https://github.com/your-username/slaycoded-project/discussions)
+- **Live Site**: [https://ideaslay.github.io/slaycoded-project](https://ideaslay.github.io/slaycoded-project)
+- **Issues**: [Report bugs or request features](https://github.com/IDEASLay/slaycoded-project/issues)
+- **Discussions**: [Join the conversation](https://github.com/IDEASLay/slaycoded-project/discussions)
 
 ---
 
